@@ -143,6 +143,14 @@ The insights generated through this analysis can help lenders:
 
 ---
 
+## Team Members
+
+Nitish Mittal
+
+Dharya Jain
+
+Gaurav Negi
+
 ## Author
 
 Nitish Mittal
